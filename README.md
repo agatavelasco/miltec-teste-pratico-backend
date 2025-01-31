@@ -21,4 +21,13 @@ O projeto foi desenvolvido utilizando C# e .NET, seguindo as melhores práticas 
 - Visual Studio 2022 ou VS Code
 - Postman para testar os endpoints.
 
+3️⃣ Rodando o Projeto
+
+No terminal, dentro da pasta do projeto, execute:
+
+dotnet build
+dotnet run
+
+
+
 
