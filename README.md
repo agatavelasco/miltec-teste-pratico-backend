@@ -26,6 +26,8 @@ O projeto foi desenvolvido utilizando C# e .NET, seguindo as melhores práticas 
 No terminal, dentro da pasta do projeto, execute:
 
 dotnet build
+
+
 dotnet run
 
 
