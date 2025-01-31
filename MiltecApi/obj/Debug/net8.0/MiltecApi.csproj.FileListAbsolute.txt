@@ -169,3 +169,5 @@ C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\obj\Debug\net8.0\refint\Miltec
 C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\obj\Debug\net8.0\MiltecApi.pdb
 C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\obj\Debug\net8.0\MiltecApi.genruntimeconfig.cache
 C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\obj\Debug\net8.0\ref\MiltecApi.dll
+C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\obj\Debug\net8.0\MiltecApi.sourcelink.json
