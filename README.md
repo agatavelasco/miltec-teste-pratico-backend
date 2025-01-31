@@ -14,7 +14,14 @@ O projeto foi desenvolvido utilizando C# e .NET, seguindo as melhores práticas 
 
 🚀 Como Rodar o Projeto
 
-1️⃣ Pré-requisitos
+1️⃣ Clonando o Repositório
+
+Para obter o código-fonte do projeto, execute o seguinte comando no terminal:
+
+git clone https://github.com/seu-usuario/miltec-api.git
+cd miltec-api
+
+2️⃣ Pré-requisitos
 - Antes de iniciar, certifique-se de ter instalado:
 - SDK do .NET 6+
 - SQL Server (ou utilize o SQL Server Express)
