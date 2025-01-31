@@ -32,10 +32,20 @@ cd miltec-api
 
 No terminal, dentro da pasta do projeto, execute:
 
+cd MiltecApi
+
+
 dotnet build
 
 
 dotnet run
+
+A API será iniciada e poderá ser acessada em http://localhost:5038
+
+
+
+
+
 
 
 
