@@ -171,3 +171,4 @@ C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\obj\Debug\net8.0\MiltecApi.gen
 C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\obj\Debug\net8.0\ref\MiltecApi.dll
 C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\obj\Debug\net8.0\MiltecApi.sourcelink.json
+C:\Users\Marcelo\source\repos\MiltecApi\MiltecApi\bin\Debug\net8.0\Postman\MiltecApi.postman_collection.json

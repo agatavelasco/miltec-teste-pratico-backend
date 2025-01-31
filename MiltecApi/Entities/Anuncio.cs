@@ -10,7 +10,7 @@ namespace MiltecApi.Entities
         public decimal Valor { get; set; }
         public string Cidade { get; set; }
         public string Tipo { get; set; } 
-        public Categoria? Categoria { get; set; }
+        public string Categoria { get; set; }
         public string? Modelo { get; set; } 
         public string? Condicao { get; set; } 
         public int? Quantidade { get; set; } 
