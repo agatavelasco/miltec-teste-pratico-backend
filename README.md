@@ -43,7 +43,72 @@ dotnet run
 A API será iniciada e poderá ser acessada em http://localhost:5038
 
 
+📌 Endpoints da API
 
+🔹 1. Criar um Novo Anúncio
+
+POST /api/anuncios
+
+Exemplo de Requisição:
+
+{
+  "Nome": "Celular Samsung Galaxy S21",
+  "DataPublicacao": "2024-01-31T14:30:00",
+  "Valor": 2999.99,
+  "Cidade": "São Paulo",
+  "Tipo": "Eletrônico",
+  "Categoria": null,
+  "Modelo": "Galaxy S21",
+  "Condicao": "Novo",
+  "Quantidade": 5
+}
+
+🔹 2. Buscar Anúncio por ID
+
+GET /api/anuncios/{id}
+
+Exemplo: GET localhost:5038/api/anuncios/1
+
+🔹 3. Listar Todos os Anúncios
+
+GET /api/anuncios
+
+Exemplo: GET localhost:5038/api/anuncios
+
+🔹 4. Editar um Anúncio
+
+PUT /api/anuncios/{id}
+
+Exemplo de Requisição:
+
+{
+  "Id": 1,
+  "Nome": "Celular Samsung Galaxy S21 editado",
+  "DataPublicacao": "2024-01-31T14:30:00",
+  "Valor": 2999.99,
+  "Cidade": "São Paulo",
+  "Tipo": "Eletrônico",
+  "Categoria": null,
+  "Modelo": "Galaxy S21",
+  "Condicao": "usado",
+  "Quantidade": 5
+}
+
+🔹 5. Excluir um Anúncio
+
+DELETE /api/anuncios/{id}
+
+Exemplo: DELETE localhost:5038/api/anuncios/1
+
+🔗 Testando a API com Postman
+
+Abra o Postman.
+
+Importe a coleção JSON disponível no repositório, dentro da pasta Postman (MiltecApi.postman_collection.json).
+
+Utilize os endpoints configurados na coleção para realizar as requisições.
+
+Verifique as respostas e valide as operações da API.
 
 
 
