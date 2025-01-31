@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N06CCRb3aFHzXMphmsrHMAtXtlymGYHySt0A+keBzKg=",
+  "Source": "MiltecApi",
+  "BasePath": "_content/MiltecApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
